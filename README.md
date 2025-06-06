@@ -1,4 +1,4 @@
- Movie Ticket Booking System Proect
+ Movie Ticket Booking System Project
 
 <!--
 **Chaithra217/chaithra217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
